@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  wakatoonSDK
+
+  Created by bs-mac-4 on 12/12/22.
+  
+*/
+
+
+"eula_sdk_popup_condition" = "By checking this box..";
+"eula_sdk_popup_title" = "EULA WAKATOON";
+"eula_sdk_popup_description" = "Lorme ipsum Lorme ipsum Lorme ipsum Lorme ipsum Lorme ipsum Lorme ipsum Lorme ipsum Lorme ipsum";
+"reject" = "Reject";
+"allow_access_to_the_camera" = "Allow access to the camera";
+"description_of_camera_permission" = "To be able to photograph the drawings and integrate them into the cartoons, you must authorize access to the camera";
+"cancle" = "Cancle";
+"retry" = "Retry";
+"ok" = "OK";
+"detecting_your_drawing" = "Detecting your drawing...";
+"happy_with_your_drawing" = "Happy with your drawing ?";
+"no_capital" = "NO";
+"yes_capital" = "YES";
+"artwork_error" = "Artwork Error";
+"artwork_extraction_error" = "Artwork Extraction Error";
+"artwork_not_found" = "Artwork not found";
+"preparing_your_cartoon" = "Preparing your Cartoon...";
+"who_the_artist" = "Who's the artist?";
+"continue" = "Continue";
+"replay_your_personalized_animated_film" = "Replay your personalized animated film!";
+"replay" = "Replay";
+"next" = "Next";

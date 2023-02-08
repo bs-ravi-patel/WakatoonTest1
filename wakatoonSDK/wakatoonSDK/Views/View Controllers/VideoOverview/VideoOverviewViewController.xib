@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="landscape" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="VideoOverviewViewController" customModule="wakatoonSDK" customModuleProvider="target">
+            <connections>
+                <outlet property="backBtn" destination="Nrp-eH-3On" id="hPg-Gl-Xg1"/>
+                <outlet property="playBtn" destination="ceF-ud-fem" id="LFD-0q-s65"/>
+                <outlet property="playerContainerView" destination="YqI-c9-kGu" id="opc-6E-NQt"/>
+                <outlet property="retakeBtn" destination="6bH-uF-b5a" id="yS8-VU-SJb"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="852" height="393"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YqI-c9-kGu">
+                    <rect key="frame" x="0.0" y="0.0" width="852" height="393"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nrp-eH-3On">
+                    <rect key="frame" x="25" y="74" width="36" height="36"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="Nrp-eH-3On" secondAttribute="height" id="NsQ-AS-Ah9"/>
+                        <constraint firstAttribute="width" constant="36" id="X95-ht-Lhn"/>
+                    </constraints>
+                    <inset key="imageEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                    <state key="normal" image="left-arrow.png"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="18"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="backBtnAction:" destination="-1" eventType="touchUpInside" id="8a5-0b-XaE"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6bH-uF-b5a">
+                    <rect key="frame" x="296.66666666666669" y="320" width="46" height="46"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="6bH-uF-b5a" secondAttribute="height" id="Ree-4p-ma5"/>
+                        <constraint firstAttribute="width" constant="46" id="myb-0a-j7i"/>
+                    </constraints>
+                    <color key="tintColor" systemColor="systemTealColor"/>
+                    <inset key="imageEdgeInsets" minX="8" minY="8" maxX="8" maxY="8"/>
+                    <state key="normal" image="camera_retake.png"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="23"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="retakeImageAction:" destination="-1" eventType="touchUpInside" id="38j-cd-fCZ"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ceF-ud-fem">
+                    <rect key="frame" x="481.33333333333331" y="313" width="59.999999999999943" height="60"/>
+                    <color key="backgroundColor" systemColor="systemTealColor"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="ceF-ud-fem" secondAttribute="height" id="2QB-wf-RbE"/>
+                        <constraint firstAttribute="width" constant="60" id="DY9-AT-3Ij"/>
+                    </constraints>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <inset key="imageEdgeInsets" minX="15" minY="15" maxX="15" maxY="15"/>
+                    <state key="normal" image="play.png"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="30"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="playAction:" destination="-1" eventType="touchUpInside" id="BLF-fn-v2t"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="6bH-uF-b5a" firstAttribute="centerY" secondItem="ceF-ud-fem" secondAttribute="centerY" id="67W-Tf-5vh"/>
+                <constraint firstItem="YqI-c9-kGu" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="CbW-B5-sef"/>
+                <constraint firstItem="Nrp-eH-3On" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="15" id="E9S-I0-B8I"/>
+                <constraint firstItem="6bH-uF-b5a" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" multiplier="0.75" id="KJu-0f-VuR"/>
+                <constraint firstItem="Nrp-eH-3On" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="25" id="Qe3-nH-qx9"/>
+                <constraint firstAttribute="trailing" secondItem="YqI-c9-kGu" secondAttribute="trailing" id="ZZu-Dn-dqC"/>
+                <constraint firstAttribute="bottom" secondItem="YqI-c9-kGu" secondAttribute="bottom" id="eel-ot-DQh"/>
+                <constraint firstItem="ceF-ud-fem" firstAttribute="width" secondItem="ceF-ud-fem" secondAttribute="height" id="jry-9Z-QCX"/>
+                <constraint firstItem="YqI-c9-kGu" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="pf5-aQ-MFg"/>
+                <constraint firstItem="ceF-ud-fem" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" multiplier="1.2" id="tZf-xD-Ckz"/>
+                <constraint firstAttribute="bottom" secondItem="ceF-ud-fem" secondAttribute="bottom" constant="20" id="zk5-7v-jag"/>
+            </constraints>
+            <point key="canvasLocation" x="35.91549295774648" y="-2.2900763358778624"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="camera_retake.png" width="512" height="512"/>
+        <image name="left-arrow.png" width="37.241378784179688" height="37.241378784179688"/>
+        <image name="play.png" width="396.3870849609375" height="396.3870849609375"/>
+        <systemColor name="systemTealColor">
+            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
