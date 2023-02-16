@@ -66,7 +66,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qZl2qkZHKC8O/lpSrcQ78pqMsM8=
+		2SI4jPAD8hjQ88xzTKVcOyY/VTE=
 		</data>
 		<key>LoaderViewController.nib</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kbENN+0OueiUiWHpEhYJSj94uK8=
+		rfrms1I+bMLWWipttKXGdPXXigc=
 		</data>
 		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		n17c+rDLhF9UYvSp/Zt8Eg+4ANM=
+		ULbEk9QVWF+iLWYuO9pnenq7uhk=
 		</data>
 		<key>Modules/wakatoonSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kbENN+0OueiUiWHpEhYJSj94uK8=
+		rfrms1I+bMLWWipttKXGdPXXigc=
 		</data>
 		<key>Modules/wakatoonSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Modules/wakatoonSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2rwhpGfcpo92q10GLy/gy4wGuz0=
+		GYZTk6sPY4Dj6xUWe4P8P5NZIDQ=
 		</data>
 		<key>ReplayAndShareViewController.nib</key>
 		<data>
@@ -299,7 +299,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f1ZpfMys8OIDtr/gqGgMX5aEZz6PWU4HUJ5Sbrhyx1Q=
+			GNczYcUApjgoUh1SSY8CLUwy/ATcOxjLGwqPjmKMEgs=
 			</data>
 		</dict>
 		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -327,14 +327,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/1MidCuSSh/IMiCF5UMHt25Af4324uf8PQjShVIY3DU=
+			QASuBO81gUR5m98c2FBEi0pRu7RJ0QUdyk27xTQ6xcU=
 			</data>
 		</dict>
 		<key>Modules/wakatoonSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f1ZpfMys8OIDtr/gqGgMX5aEZz6PWU4HUJ5Sbrhyx1Q=
+			GNczYcUApjgoUh1SSY8CLUwy/ATcOxjLGwqPjmKMEgs=
 			</data>
 		</dict>
 		<key>Modules/wakatoonSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -362,7 +362,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/754tNj9wkLKobj/silYG4VebpdfY1HS79GS98AL1fY=
+			2jB8KQQvlayEY5BX7g4ozAfYfAJh0clhx3R2tuDbl80=
 			</data>
 		</dict>
 		<key>ReplayAndShareViewController.nib</key>

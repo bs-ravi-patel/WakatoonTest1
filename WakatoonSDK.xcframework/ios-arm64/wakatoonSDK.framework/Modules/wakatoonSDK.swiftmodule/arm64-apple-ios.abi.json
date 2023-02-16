@@ -1704,511 +1704,511 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ErrorPopup\/ErrorPopupViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ErrorPopup\/ErrorPopupViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 255,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ErrorPopup\/ErrorPopupViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ErrorPopup\/ErrorPopupViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 291,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
       "kind": "StringLiteral",
-      "offset": 897,
+      "offset": 896,
       "length": 20,
       "value": "\"DETECTED_LOOP_DATA\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
       "kind": "StringLiteral",
-      "offset": 952,
+      "offset": 951,
       "length": 14,
       "value": "\"EPISODE_DATA\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
       "kind": "StringLiteral",
-      "offset": 1001,
+      "offset": 1000,
       "length": 15,
       "value": "\"DETECTED_DATA\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
       "kind": "StringLiteral",
-      "offset": 897,
+      "offset": 896,
       "length": 20,
       "value": "\"DETECTED_LOOP_DATA\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
       "kind": "StringLiteral",
-      "offset": 952,
+      "offset": 951,
       "length": 14,
       "value": "\"EPISODE_DATA\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
       "kind": "StringLiteral",
-      "offset": 1001,
+      "offset": 1000,
       "length": 15,
       "value": "\"DETECTED_DATA\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ExtractionOK\/ExtractionOKViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ExtractionOK\/ExtractionOKViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 275,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoPlayer\/VideoPlayerViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoPlayer\/VideoPlayerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 596,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoPlayer\/VideoPlayerViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoPlayer\/VideoPlayerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 629,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 452,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 490,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 526,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
       "kind": "StringLiteral",
       "offset": 620,
       "length": 6,
       "value": "\"rate\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 661,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/DownloadManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/DownloadManager.swift",
       "kind": "StringLiteral",
       "offset": 377,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/DownloadManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/DownloadManager.swift",
       "kind": "StringLiteral",
       "offset": 289,
       "length": 15,
       "value": "\"wakatoonSDK.DownloadManager\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 228,
       "length": 32,
       "value": "\"https:\/\/api.wakatoon.com\/waas\/\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 324,
       "length": 17,
       "value": "\"episode\/artwork\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 376,
       "length": 20,
       "value": "\"ui\/episode\/overlay\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 431,
       "length": 17,
       "value": "\"artwork\/extract\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 483,
       "length": 16,
       "value": "\"photo\/validate\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 534,
       "length": 13,
       "value": "\"stream\/link\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 324,
       "length": 17,
       "value": "\"episode\/artwork\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 376,
       "length": 20,
       "value": "\"ui\/episode\/overlay\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 431,
       "length": 17,
       "value": "\"artwork\/extract\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 483,
       "length": 16,
       "value": "\"photo\/validate\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 534,
       "length": 13,
       "value": "\"stream\/link\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 685,
       "length": 15,
       "value": "\"DETECTED_LOOP\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 735,
       "length": 9,
       "value": "\"EPISODE\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 779,
       "length": 7,
       "value": "\"INTRO\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 821,
       "length": 10,
       "value": "\"DETECTED\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 685,
       "length": 15,
       "value": "\"DETECTED_LOOP\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 735,
       "length": 9,
       "value": "\"EPISODE\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 779,
       "length": 7,
       "value": "\"INTRO\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
       "kind": "StringLiteral",
       "offset": 821,
       "length": 10,
       "value": "\"DETECTED\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 235,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 478,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 940,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/String+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/String+Utils.swift",
       "kind": "IntegerLiteral",
       "offset": 1206,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/String+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/String+Utils.swift",
       "kind": "IntegerLiteral",
       "offset": 1381,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "StringLiteral",
       "offset": 218,
       "length": 22,
       "value": "\"com.etpl.wakatoonSDK\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "StringLiteral",
       "offset": 311,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "StringLiteral",
       "offset": 340,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "StringLiteral",
       "offset": 372,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "BooleanLiteral",
       "offset": 410,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "IntegerLiteral",
       "offset": 541,
       "length": 2,
       "value": "98"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "FloatLiteral",
       "offset": 544,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "IntegerLiteral",
       "offset": 558,
       "length": 3,
       "value": "201"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "FloatLiteral",
       "offset": 562,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "IntegerLiteral",
       "offset": 575,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "FloatLiteral",
       "offset": 579,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "FloatLiteral",
       "offset": 593,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "StringLiteral",
       "offset": 636,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "IntegerLiteral",
       "offset": 671,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "IntegerLiteral",
       "offset": 704,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "IntegerLiteral",
       "offset": 734,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "StringLiteral",
       "offset": 895,
       "length": 46,
       "value": "\"https:\/\/www.wakatoon.com\/fr\/mentions-legales\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
       "kind": "StringLiteral",
       "offset": 969,
       "length": 60,
       "value": "\"https:\/\/www.wakatoon.com\/fr\/politique-de-confidentialité\/\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonManager.swift",
       "kind": "StringLiteral",
       "offset": 975,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonManager.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonManager.swift",
       "kind": "StringLiteral",
       "offset": 2252,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Camera\/CameraViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Camera\/CameraViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 489,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/AssetStore.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/AssetStore.swift",
       "kind": "Dictionary",
       "offset": 357,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Loading\/LoadingViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Loading\/LoadingViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 602,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Loading\/LoadingViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Loading\/LoadingViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 768,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 257,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 403,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 613,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 783,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
       "kind": "BooleanLiteral",
       "offset": 809,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoOverview\/VideoOverviewViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoOverview\/VideoOverviewViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 328,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/opt\/edugem\/apps\/WakatoonApp\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoOverview\/VideoOverviewViewController.swift",
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoOverview\/VideoOverviewViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 364,
       "length": 5,

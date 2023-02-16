@@ -9,11 +9,12 @@ Pod::Spec.new do |spec|
   spec.swift_version          = '5.0'
 
   spec.ios.deployment_target  = '12.0'
-
+  
+  #spec.source                 = { :http => '/Users/bs-mac-4/Documents/Testing 8 Feb/WakatoonTest1/WakatoonSDK.xcframework.zip', :flatten => false}
   spec.source                 = { :git => 'https://github.com/ravipatel-123/WakatoonTest1.git', :tag => spec.version }
 
   spec.vendored_framework     = 'WakatoonSDK.xcframework'
-  spec.framework              = 'SystemConfiguration'
-  spec.ios.framework          = 'UIKit'
+  #spec.framework              = 'SystemConfiguration'
+  #spec.ios.framework          = 'UIKit'
 
 end
