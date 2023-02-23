@@ -246,7 +246,7 @@ using UInt = size_t;
 #if __has_attribute(external_source_symbol)
 # pragma push_macro("any")
 # undef any
-# pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="wakatoonSDK",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
+# pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="WakatoonSDK",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
 # pragma pop_macro("any")
 #endif
 
@@ -267,7 +267,7 @@ using UInt = size_t;
 
 
 
-SWIFT_CLASS("_TtC11wakatoonSDK11WakatoonSDK")
+SWIFT_CLASS("_TtC11WakatoonSDK11WakatoonSDK")
 @interface WakatoonSDK : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");

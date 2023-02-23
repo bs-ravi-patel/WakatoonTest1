@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  wakatoonSDK
+
+  Created by bs-mac-4 on 12/12/22.
+  
+*/
+
+
+"eula_sdk_popup_condition" = "I agree.";
+"eula_sdk_popup_title" = "Wakatoon's TOU";
+"eula_sdk_popup_description" = "By continuing you accept the <a href=\"https://www.wakatoon.com/fr/mentions-legales\">Termes of Use<a/> and the <a href=\"https://www.wakatoon.com/fr/politique-de-confidentialité\">Privacy Policy</a> of the Wakatoon service.";
+"eula_sdk_popup_termes_of_use" = "Termes of Use";
+"eula_sdk_popup_privacy_policy" = "Privacy Policy";
+"reject" = "Reject";
+"allow_access_to_the_camera" = "Allow access to the camera";
+"description_of_camera_permission" = "To be able to photograph the drawings and integrate them into the cartoons, you must authorize access to the camera";
+"cancel" = "Cancel";
+"retry" = "Retry";
+"ok" = "OK";
+"detecting_your_drawing" = "Detecting your drawing...";
+"happy_with_your_drawing" = "Happy with your drawing?";
+"no_capital" = "NO";
+"yes_capital" = "YES";
+"artwork_error" = "Artwork error";
+"artwork_extraction_error" = "Artwork extraction error";
+"artwork_not_found" = "Artwork not found";
+"preparing_your_cartoon" = "Bluilding your cartoon...";
+"who_the_artist" = "Who is the artist?";
+"continue" = "Continue";
+"replay_your_personalized_animated_film" = "Replay your personalized animated film!";
+"replay" = "Replay";
+"next" = "Next";
+"back" = "BACK";
+"continue"= "CONTINUE";
+"video_loading_text" = "loading in progress…";

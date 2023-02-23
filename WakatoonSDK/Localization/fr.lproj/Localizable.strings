@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  wakatoonSDK
+
+  Created by bs-mac-4 on 12/12/22.
+  
+*/
+
+
+"eula_sdk_popup_condition" = "J'accepte.";
+"eula_sdk_popup_title" = "CGU de Wakatoon";
+"eula_sdk_popup_description" = "En continuant, vous acceptez les <a href=\"https://www.wakatoon.com/fr/mentions-legales\">Conditions Générales d'Utilisation<a/> et les <a href=\"https://www.wakatoon.com/fr/politique-de-confidentialité\"/>Règles de Confidentialité</a> du service Wakatoon.";
+"eula_sdk_popup_termes_of_use" = "Conditions Générales d'Utilisation";
+"eula_sdk_popup_privacy_policy" = "Règles de Confidentialité";
+"reject" = "Rejeter";
+"allow_access_to_the_camera" = "Autoriser l'accès à la caméra";
+"description_of_camera_permission" = "Pour pouvoir photographier les dessins et les intégrer aux dessins animés, vous devez autoriser l'accès à l'appareil photo";
+"cancel" = "Annuler";
+"retry" = "Réessayer";
+"ok" = "OK";
+"detecting_your_drawing" = "Détection du dessin en cours...";
+"happy_with_your_drawing" = "Ton dessin te convient ?";
+"no_capital" = "NON";
+"yes_capital" = "OUI";
+"artwork_error" = "Artwork error";
+"artwork_extraction_error" = "Artwork extraction error";
+"artwork_not_found" = "Artwork not found";
+"preparing_your_cartoon" = "Ton dessin animé est en cours de fabrication...";
+"who_the_artist" = "C'est qui l'artiste ?";
+"continue" = "Continuer";
+"replay_your_personalized_animated_film" = "Rejoue ton dessin animé personnalisé";
+"replay" = "Rejouer";
+"next" = "Suivant";
+"back" = "Retour";
+"continue"= "Continuer";
+"video_loading_text" = "chargement en cours…";

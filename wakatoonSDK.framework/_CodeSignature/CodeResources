@@ -56,9 +56,9 @@
 		<data>
 		djS3t12QaqDjnOE6ulFWXs0wDfQ=
 		</data>
-		<key>Headers/wakatoonSDK-Swift.h</key>
+		<key>Headers/WakatoonSDK-Swift.h</key>
 		<data>
-		j1JVRKu2ww5aNJ6zKC9E/q7YsH4=
+		0h+YgKtm1StmKz/Igb7dFajHkgQ=
 		</data>
 		<key>Headers/wakatoonSDK.h</key>
 		<data>
@@ -66,39 +66,39 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aKFpKm6DlL3i8uOjz2Sd2Ri7P60=
+		4Gjnx9tBwENwoJq2xOjYLbwyhCM=
 		</data>
 		<key>LoaderViewController.nib</key>
 		<data>
-		cnRjENuV6b7T6rmc+w+4/iaPotU=
+		wPcxwVO3LVZrs6Ea7tTUG+rmJTo=
 		</data>
 		<key>LoadingViewController.nib</key>
 		<data>
-		6FtXlJs9reI2L/uhYfztoMaPOHg=
+		b51vMOVFsVLt5rS86FwJV8s2Xz4=
+		</data>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		KTC0w8r+u2Z5KkoYipExBDOfQMM=
+		</data>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		L1Mo1beFXowCnyXD4auzwG6A+LQ=
+		</data>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		j7H7nrsbd7mOT8smhO8+Pf9j6FI=
+		</data>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		L1Mo1beFXowCnyXD4auzwG6A+LQ=
+		</data>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		U76O3Aq8ce7svlulKfDgbZwR56c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		KFmfnRRGlcj3w3P8fJJc2aexkPU=
-		</data>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.abi.json</key>
-		<data>
-		j2zn6zMrQ8gFd8b7OBrrULHvb/0=
-		</data>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		g7riC1ERD7EsRxpT+y1p3L8hvoU=
-		</data>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		eSzJRE782UjO8EpcD/2rszPVlYE=
-		</data>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		g7riC1ERD7EsRxpT+y1p3L8hvoU=
-		</data>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		mc70jneZZLCGhbsaa7iKDecevb8=
+		7RemgSyDNRKlreFcFecGyda6F3w=
 		</data>
 		<key>ReplayAndShareViewController.nib</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>VideoPlayerViewController.nib/objects-14.0+.nib</key>
 		<data>
-		lOcQFocVm56qt+gK/u3Aux+7xL4=
+		NFHhYn7WLDsRKCacwyGgseoLUsI=
 		</data>
 		<key>VideoPlayerViewController.nib/runtime.nib</key>
 		<data>
-		fyDko9aaKDGwRQDX0vvpy+ieoEI=
+		g5d4xclFN09chLjj2I00VcR3maU=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -240,11 +240,11 @@
 			BOuZ0zCXNnTHcwqjrV48n/AUPaar+2DB9tGCAz5quKk=
 			</data>
 		</dict>
-		<key>Headers/wakatoonSDK-Swift.h</key>
+		<key>Headers/WakatoonSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SAsfh23X0yckMmnbJhnddz4XajFMNbG4LUnWbQwV42A=
+			+XBxck6COP4fRIATl9N1UVi1OZ5oz2yGkf1C1jOJvso=
 			</data>
 		</dict>
 		<key>Headers/wakatoonSDK.h</key>
@@ -258,56 +258,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4770IcbyN83LZmuKlPmRz6Uxc+n7hoL17rb3yCRQEuM=
+			hKQ++wY7XStk97kmlgCURmPjvOwT6/qCGjqjtuYTiK8=
 			</data>
 		</dict>
 		<key>LoadingViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3mEiPL5SHqk8a0Zx758hV/hg9D7JmDfGkYAEGi7fkXk=
+			yOXDOlp6vBxzoDUxn+qU1zFNTnSMFxSIce4O/suhUrM=
+			</data>
+		</dict>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dcG7nx5BTfbLjHSoYAdaVYRciIscbvmeHYM/dEDOL24=
+			</data>
+		</dict>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HXU3VCFLmXO+vrIyST3SI6C1Rf+rUYq0W8DjZmVKMkU=
+			</data>
+		</dict>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JDSMOmiNKZehYlqPQqskyHE7U+4RcdfQXV93+4dDRXQ=
+			</data>
+		</dict>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HXU3VCFLmXO+vrIyST3SI6C1Rf+rUYq0W8DjZmVKMkU=
+			</data>
+		</dict>
+		<key>Modules/WakatoonSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mdkuqbgdcWCNUcfLMztKwJme577aVueYqSlvKR9mfjg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ODiVGrVbC9TOhxw977hvvlz6ICtVTk6GylhPJiafDnI=
-			</data>
-		</dict>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qbafS1jCilz1EOkRi/6HJCXfLID8x40XoPwt0Q1hs+k=
-			</data>
-		</dict>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RZ/7+0fgxvJnM9Q68teAHYg+pBNy6lfp6OuLkWDB9KY=
-			</data>
-		</dict>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			U/Efmk1y4kL4iwbjxCD3OVKBIswQT9x4C+Sb2eTV/JY=
-			</data>
-		</dict>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RZ/7+0fgxvJnM9Q68teAHYg+pBNy6lfp6OuLkWDB9KY=
-			</data>
-		</dict>
-		<key>Modules/wakatoonSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			B15+dUpgZ6N7P5ikuaMBpg5jG1SmvPBvzI+P9K8zw4g=
+			Tl08ossCQR3PcDAXK/sYDYdpj5ZeJ8F4PUNLczS2Oe8=
 			</data>
 		</dict>
 		<key>ReplayAndShareViewController.nib</key>
@@ -328,14 +328,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zqX+G+HLuQXrVsqAa94lilsqs9GNCFkfMnFyxB6NGJc=
+			m2W+wviWZxe7+Ue+fUTEWzUl31sNb6f2C7a2awpB7mQ=
 			</data>
 		</dict>
 		<key>VideoPlayerViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0q1Dz5eGnUnOudCUWgz7uFzTgYcpZwgcnYqsxi7wAlI=
+			A+t0zroV+XqaunkrF19B3c71ZvI2iyODm0YaMlvlouI=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
