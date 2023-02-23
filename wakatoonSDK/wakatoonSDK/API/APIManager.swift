@@ -32,7 +32,7 @@ class APIManager: NSObject {
     }
     
     //MARK: - GET ARTWORK -
-    public func getArtWork(storyID: String, seasonID: Int, episodeId: Int, completion: @escaping((_ response: Data?, _ error: Error?)->())) {
+    public func getArtwork(storyID: String, seasonID: Int, episodeId: Int, completion: @escaping((_ response: Data?, _ error: Error?)->())) {
         if let url = URL(string: self.BaseURL + Endpoints.artwork.rawValue + "?userId=\(WakatoonSDKData.shared.USER_ID)&profileId=\(WakatoonSDKData.shared.PROFILE_ID)&storyId=\(storyID)&seasonId=\(seasonID)&episodeId=\(episodeId)") {
             self.makeGetRequest(url: url, completion: completion)
         }

@@ -1,0 +1,11 @@
+framework module wakatoonSDK {
+  umbrella header "wakatoonSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module wakatoonSDK.Swift {
+  header "wakatoonSDK-Swift.h"
+  requires objc
+}

@@ -20,11 +20,11 @@
 		0A51FB19295443690034A1D9 /* VideoGenModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A51FB18295443690034A1D9 /* VideoGenModal.swift */; };
 		0A51FB1D295445130034A1D9 /* VideoOverviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A51FB1B295445130034A1D9 /* VideoOverviewViewController.swift */; };
 		0A51FB1E295445130034A1D9 /* VideoOverviewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A51FB1C295445130034A1D9 /* VideoOverviewViewController.xib */; };
-		0A61988A294B60C900EE0541 /* ArtWorkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A619886294B60C900EE0541 /* ArtWorkModel.swift */; };
 		0A61988D294B60C900EE0541 /* ErrorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A619889294B60C900EE0541 /* ErrorModel.swift */; };
 		0A69E5032971314800342112 /* VideoCacheModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A69E5022971314800342112 /* VideoCacheModel.swift */; };
 		0A69E5052971328600342112 /* UserDefaults+Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A69E5042971328600342112 /* UserDefaults+Utils.swift */; };
 		0A6AE9CF297AA246002778C1 /* EpisodeDrawnModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A6AE9CE297AA246002778C1 /* EpisodeDrawnModel.swift */; };
+		0A6BFE9F299DE84F00EAA13C /* ArtworkModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A6BFE9E299DE84F00EAA13C /* ArtworkModel.swift */; };
 		0A7022F42959C07400038A70 /* AssetStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7022F22959C07400038A70 /* AssetStore.swift */; };
 		0A7138EA295317ED001F95E0 /* ExtractionOKViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7138E8295317ED001F95E0 /* ExtractionOKViewController.swift */; };
 		0A7138EB295317ED001F95E0 /* ExtractionOKViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A7138E9295317ED001F95E0 /* ExtractionOKViewController.xib */; };
@@ -84,11 +84,11 @@
 		0A51FB18295443690034A1D9 /* VideoGenModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoGenModal.swift; sourceTree = "<group>"; };
 		0A51FB1B295445130034A1D9 /* VideoOverviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoOverviewViewController.swift; sourceTree = "<group>"; };
 		0A51FB1C295445130034A1D9 /* VideoOverviewViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = VideoOverviewViewController.xib; sourceTree = "<group>"; };
-		0A619886294B60C900EE0541 /* ArtWorkModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtWorkModel.swift; sourceTree = "<group>"; };
 		0A619889294B60C900EE0541 /* ErrorModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorModel.swift; sourceTree = "<group>"; };
 		0A69E5022971314800342112 /* VideoCacheModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCacheModel.swift; sourceTree = "<group>"; };
 		0A69E5042971328600342112 /* UserDefaults+Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserDefaults+Utils.swift"; sourceTree = "<group>"; };
 		0A6AE9CE297AA246002778C1 /* EpisodeDrawnModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodeDrawnModel.swift; sourceTree = "<group>"; };
+		0A6BFE9E299DE84F00EAA13C /* ArtworkModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtworkModel.swift; sourceTree = "<group>"; };
 		0A7022F22959C07400038A70 /* AssetStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetStore.swift; sourceTree = "<group>"; };
 		0A7138E8295317ED001F95E0 /* ExtractionOKViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractionOKViewController.swift; sourceTree = "<group>"; };
 		0A7138E9295317ED001F95E0 /* ExtractionOKViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ExtractionOKViewController.xib; sourceTree = "<group>"; };
@@ -197,13 +197,13 @@
 		0A619885294B60C900EE0541 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				0A619886294B60C900EE0541 /* ArtWorkModel.swift */,
 				0A619889294B60C900EE0541 /* ErrorModel.swift */,
 				0A9565C129530B3900E2ED31 /* ExtractImageModel.swift */,
 				0A7138EC29532699001F95E0 /* ExtractImageValidateModal.swift */,
 				0A51FB18295443690034A1D9 /* VideoGenModal.swift */,
 				0A69E5022971314800342112 /* VideoCacheModel.swift */,
 				0A6AE9CE297AA246002778C1 /* EpisodeDrawnModel.swift */,
+				0A6BFE9E299DE84F00EAA13C /* ArtworkModel.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -554,8 +554,8 @@
 				0A94AF1D295074B900A9AA2A /* String+Utils.swift in Sources */,
 				0AC106D42951D977006F161E /* WakatoonSDKData.swift in Sources */,
 				0A51FB19295443690034A1D9 /* VideoGenModal.swift in Sources */,
-				0A61988A294B60C900EE0541 /* ArtWorkModel.swift in Sources */,
 				0A94AF23295078C300A9AA2A /* Common.swift in Sources */,
+				0A6BFE9F299DE84F00EAA13C /* ArtworkModel.swift in Sources */,
 				0AD36A03294AF5B700CA251F /* eulaSDKPopUPViewController.swift in Sources */,
 				0A6AE9CF297AA246002778C1 /* EpisodeDrawnModel.swift in Sources */,
 				0AA3FB4829431DCF00B97C43 /* CreateSDKHelper.swift in Sources */,
@@ -743,7 +743,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.etpl.wakatoonSDK;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SKIP_INSTALL = YES;
+				SKIP_INSTALL = NO;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
@@ -783,7 +783,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.etpl.wakatoonSDK;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SKIP_INSTALL = YES;
+				SKIP_INSTALL = NO;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;

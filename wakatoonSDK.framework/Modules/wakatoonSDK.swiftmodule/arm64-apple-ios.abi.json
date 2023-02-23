@@ -1,0 +1,2218 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WakatoonSDKData",
+        "printedName": "WakatoonSDKData",
+        "declKind": "Class",
+        "usr": "s:11wakatoonSDK15WakatoonSDKDataC",
+        "mangledName": "$s11wakatoonSDK15WakatoonSDKDataC",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Language",
+        "printedName": "Language",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "en",
+            "printedName": "en",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(wakatoonSDK.Language.Type) -> wakatoonSDK.Language",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Language",
+                    "printedName": "wakatoonSDK.Language",
+                    "usr": "s:11wakatoonSDK8LanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "wakatoonSDK.Language.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Language",
+                        "printedName": "wakatoonSDK.Language",
+                        "usr": "s:11wakatoonSDK8LanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11wakatoonSDK8LanguageO2enyA2CmF",
+            "mangledName": "$s11wakatoonSDK8LanguageO2enyA2CmF",
+            "moduleName": "wakatoonSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "fr",
+            "printedName": "fr",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(wakatoonSDK.Language.Type) -> wakatoonSDK.Language",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Language",
+                    "printedName": "wakatoonSDK.Language",
+                    "usr": "s:11wakatoonSDK8LanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "wakatoonSDK.Language.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Language",
+                        "printedName": "wakatoonSDK.Language",
+                        "usr": "s:11wakatoonSDK8LanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11wakatoonSDK8LanguageO2fryA2CmF",
+            "mangledName": "$s11wakatoonSDK8LanguageO2fryA2CmF",
+            "moduleName": "wakatoonSDK"
+          },
+          {
+            "kind": "Function",
+            "name": "description",
+            "printedName": "description()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK8LanguageO11descriptionSSyF",
+            "mangledName": "$s11wakatoonSDK8LanguageO11descriptionSSyF",
+            "moduleName": "wakatoonSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Language",
+                "printedName": "wakatoonSDK.Language",
+                "usr": "s:11wakatoonSDK8LanguageO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Language",
+                "printedName": "wakatoonSDK.Language",
+                "usr": "s:11wakatoonSDK8LanguageO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK8LanguageO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s11wakatoonSDK8LanguageO2eeoiySbAC_ACtFZ",
+            "moduleName": "wakatoonSDK",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11wakatoonSDK8LanguageO9hashValueSivp",
+            "mangledName": "$s11wakatoonSDK8LanguageO9hashValueSivp",
+            "moduleName": "wakatoonSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11wakatoonSDK8LanguageO9hashValueSivg",
+                "mangledName": "$s11wakatoonSDK8LanguageO9hashValueSivg",
+                "moduleName": "wakatoonSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK8LanguageO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s11wakatoonSDK8LanguageO4hash4intoys6HasherVz_tF",
+            "moduleName": "wakatoonSDK",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "allCases",
+            "printedName": "allCases",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[wakatoonSDK.Language]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Language",
+                    "printedName": "wakatoonSDK.Language",
+                    "usr": "s:11wakatoonSDK8LanguageO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11wakatoonSDK8LanguageO8allCasesSayACGvpZ",
+            "mangledName": "$s11wakatoonSDK8LanguageO8allCasesSayACGvpZ",
+            "moduleName": "wakatoonSDK",
+            "static": true,
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[wakatoonSDK.Language]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Language",
+                        "printedName": "wakatoonSDK.Language",
+                        "usr": "s:11wakatoonSDK8LanguageO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11wakatoonSDK8LanguageO8allCasesSayACGvgZ",
+                "mangledName": "$s11wakatoonSDK8LanguageO8allCasesSayACGvgZ",
+                "moduleName": "wakatoonSDK",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:11wakatoonSDK8LanguageO",
+        "mangledName": "$s11wakatoonSDK8LanguageO",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CaseIterable",
+            "printedName": "CaseIterable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AllCases",
+                "printedName": "AllCases",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[wakatoonSDK.Language]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Language",
+                        "printedName": "wakatoonSDK.Language",
+                        "usr": "s:11wakatoonSDK8LanguageO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12CaseIterableP",
+            "mangledName": "$ss12CaseIterableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WakatoonSDK",
+        "printedName": "WakatoonSDK",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "wakatoonSDK.WakatoonSDKDelegate?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WakatoonSDKDelegate",
+                    "printedName": "wakatoonSDK.WakatoonSDKDelegate",
+                    "usr": "s:11wakatoonSDK19WakatoonSDKDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11wakatoonSDK08WakatoonB0C8delegateAA0C11SDKDelegate_pSgvp",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C8delegateAA0C11SDKDelegate_pSgvp",
+            "moduleName": "wakatoonSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "wakatoonSDK.WakatoonSDKDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WakatoonSDKDelegate",
+                        "printedName": "wakatoonSDK.WakatoonSDKDelegate",
+                        "usr": "s:11wakatoonSDK19WakatoonSDKDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11wakatoonSDK08WakatoonB0C8delegateAA0C11SDKDelegate_pSgvg",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C8delegateAA0C11SDKDelegate_pSgvg",
+                "moduleName": "wakatoonSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "wakatoonSDK.WakatoonSDKDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WakatoonSDKDelegate",
+                        "printedName": "wakatoonSDK.WakatoonSDKDelegate",
+                        "usr": "s:11wakatoonSDK19WakatoonSDKDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11wakatoonSDK08WakatoonB0C8delegateAA0C11SDKDelegate_pSgvs",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C8delegateAA0C11SDKDelegate_pSgvs",
+                "moduleName": "wakatoonSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11wakatoonSDK08WakatoonB0C8delegateAA0C11SDKDelegate_pSgvM",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C8delegateAA0C11SDKDelegate_pSgvM",
+                "moduleName": "wakatoonSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "TypeDecl",
+            "name": "Builder",
+            "printedName": "Builder",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "instance",
+                "printedName": "instance",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "wakatoonSDK.WakatoonSDK?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WakatoonSDK",
+                        "printedName": "wakatoonSDK.WakatoonSDK",
+                        "usr": "c:@M@wakatoonSDK@objc(cs)WakatoonSDK"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC8instanceACSgvp",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC8instanceACSgvp",
+                "moduleName": "wakatoonSDK",
+                "declAttributes": [
+                  "HasInitialValue",
+                  "HasStorage",
+                  "AccessControl"
+                ],
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "wakatoonSDK.WakatoonSDK?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "WakatoonSDK",
+                            "printedName": "wakatoonSDK.WakatoonSDK",
+                            "usr": "c:@M@wakatoonSDK@objc(cs)WakatoonSDK"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC8instanceACSgvg",
+                    "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC8instanceACSgvg",
+                    "moduleName": "wakatoonSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Set",
+                    "printedName": "Set()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "wakatoonSDK.WakatoonSDK?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "WakatoonSDK",
+                            "printedName": "wakatoonSDK.WakatoonSDK",
+                            "usr": "c:@M@wakatoonSDK@objc(cs)WakatoonSDK"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC8instanceACSgvs",
+                    "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC8instanceACSgvs",
+                    "moduleName": "wakatoonSDK",
+                    "implicit": true,
+                    "accessorKind": "set"
+                  },
+                  {
+                    "kind": "Accessor",
+                    "name": "Modify",
+                    "printedName": "Modify()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC8instanceACSgvM",
+                    "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC8instanceACSgvM",
+                    "moduleName": "wakatoonSDK",
+                    "implicit": true,
+                    "accessorKind": "_modify"
+                  }
+                ]
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(instance:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Builder",
+                    "printedName": "wakatoonSDK.WakatoonSDK.Builder",
+                    "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "wakatoonSDK.WakatoonSDK?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WakatoonSDK",
+                        "printedName": "wakatoonSDK.WakatoonSDK",
+                        "usr": "c:@M@wakatoonSDK@objc(cs)WakatoonSDK"
+                      }
+                    ],
+                    "hasDefaultArg": true,
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC8instanceAeCSg_tcfc",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC8instanceAeCSg_tcfc",
+                "moduleName": "wakatoonSDK",
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Function",
+                "name": "build",
+                "printedName": "build()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WakatoonSDK",
+                    "printedName": "wakatoonSDK.WakatoonSDK",
+                    "usr": "c:@M@wakatoonSDK@objc(cs)WakatoonSDK"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC5buildACyF",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC5buildACyF",
+                "moduleName": "wakatoonSDK",
+                "declAttributes": [
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "initSDK",
+                "printedName": "initSDK(API_KEY:USER_ID:PROFILE_ID:PROFILE_NAME:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Builder",
+                    "printedName": "wakatoonSDK.WakatoonSDK.Builder",
+                    "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "hasDefaultArg": true,
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC04initB07API_KEY7USER_ID08PROFILE_I00J5_NAMEAESS_S3StF",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC04initB07API_KEY7USER_ID08PROFILE_I00J5_NAMEAESS_S3StF",
+                "moduleName": "wakatoonSDK",
+                "declAttributes": [
+                  "AccessControl",
+                  "RawDocComment"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "enableDebugMode",
+                "printedName": "enableDebugMode(_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Builder",
+                    "printedName": "wakatoonSDK.WakatoonSDK.Builder",
+                    "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC15enableDebugModeyAESbF",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC15enableDebugModeyAESbF",
+                "moduleName": "wakatoonSDK",
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "funcSelfKind": "NonMutating"
+              },
+              {
+                "kind": "Function",
+                "name": "setLanguage",
+                "printedName": "setLanguage(_:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Builder",
+                    "printedName": "wakatoonSDK.WakatoonSDK.Builder",
+                    "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Language",
+                    "printedName": "wakatoonSDK.Language",
+                    "usr": "s:11wakatoonSDK8LanguageO"
+                  }
+                ],
+                "declKind": "Func",
+                "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC11setLanguageyAeA0F0OF",
+                "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC11setLanguageyAeA0F0OF",
+                "moduleName": "wakatoonSDK",
+                "declAttributes": [
+                  "AccessControl"
+                ],
+                "funcSelfKind": "NonMutating"
+              }
+            ],
+            "declKind": "Class",
+            "usr": "s:11wakatoonSDK08WakatoonB0C7BuilderC",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C7BuilderC",
+            "moduleName": "wakatoonSDK",
+            "declAttributes": [
+              "AccessControl"
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "setCurrentWakartist",
+            "printedName": "setCurrentWakartist(USER_ID:PROFILE_ID:PROFILE_NAME:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK08WakatoonB0C19setCurrentWakartist7USER_ID08PROFILE_H00I5_NAME10completionySS_S2SySbctF",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C19setCurrentWakartist7USER_ID08PROFILE_H00I5_NAME10completionySS_S2SySbctF",
+            "moduleName": "wakatoonSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "showTermsAndPrivacy",
+            "printedName": "showTermsAndPrivacy(controller:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK08WakatoonB0C19showTermsAndPrivacy10controller10completionySo22UINavigationControllerC_ySbctF",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C19showTermsAndPrivacy10controller10completionySo22UINavigationControllerC_ySbctF",
+            "moduleName": "wakatoonSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getEpisodeArtwork",
+            "printedName": "getEpisodeArtwork(storyID:seasonID:episodeID:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Foundation.Data?, Swift.Error?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Foundation.Data?, Swift.Error?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Foundation.Data?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Data",
+                            "printedName": "Foundation.Data",
+                            "usr": "s:10Foundation4DataV"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Error?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK08WakatoonB0C17getEpisodeArtwork7storyID06seasonH007episodeH010completionySS_S2iy10Foundation4DataVSg_s5Error_pSgtctF",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C17getEpisodeArtwork7storyID06seasonH007episodeH010completionySS_S2iy10Foundation4DataVSg_s5Error_pSgtctF",
+            "moduleName": "wakatoonSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "launchEpisode",
+            "printedName": "launchEpisode(controller:storyID:seasonID:episodeID:totalEpisodes:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK08WakatoonB0C13launchEpisode10controller7storyID06seasonH007episodeH013totalEpisodesySo22UINavigationControllerC_SSS3itF",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C13launchEpisode10controller7storyID06seasonH007episodeH013totalEpisodesySo22UINavigationControllerC_SSS3itF",
+            "moduleName": "wakatoonSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getSupportedLanguages",
+            "printedName": "getSupportedLanguages()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Tuple",
+                "printedName": "([Swift.String], Swift.String)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK08WakatoonB0C21getSupportedLanguagesSaySSG_SStyFZ",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C21getSupportedLanguagesSaySSG_SStyFZ",
+            "moduleName": "wakatoonSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setLanguage",
+            "printedName": "setLanguage(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Language",
+                "printedName": "wakatoonSDK.Language",
+                "usr": "s:11wakatoonSDK8LanguageO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK08WakatoonB0C11setLanguageyyAA0E0OF",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C11setLanguageyyAA0E0OF",
+            "moduleName": "wakatoonSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getVersion",
+            "printedName": "getVersion()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK08WakatoonB0C10getVersionSSyFZ",
+            "mangledName": "$s11wakatoonSDK08WakatoonB0C10getVersionSSyFZ",
+            "moduleName": "wakatoonSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@wakatoonSDK@objc(cs)WakatoonSDK",
+        "mangledName": "$s11wakatoonSDK08WakatoonB0C",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "WakatoonSDKDelegate",
+        "printedName": "WakatoonSDKDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "videoPlaybackStarted",
+            "printedName": "videoPlaybackStarted()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK19WakatoonSDKDelegateP20videoPlaybackStartedyyF",
+            "mangledName": "$s11wakatoonSDK19WakatoonSDKDelegateP20videoPlaybackStartedyyF",
+            "moduleName": "wakatoonSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : wakatoonSDK.WakatoonSDKDelegate>",
+            "sugared_genericSig": "<Self where Self : wakatoonSDK.WakatoonSDKDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "videoPlaybackStopped",
+            "printedName": "videoPlaybackStopped()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11wakatoonSDK19WakatoonSDKDelegateP20videoPlaybackStoppedyyF",
+            "mangledName": "$s11wakatoonSDK19WakatoonSDKDelegateP20videoPlaybackStoppedyyF",
+            "moduleName": "wakatoonSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : wakatoonSDK.WakatoonSDKDelegate>",
+            "sugared_genericSig": "<Self where Self : wakatoonSDK.WakatoonSDKDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:11wakatoonSDK19WakatoonSDKDelegateP",
+        "mangledName": "$s11wakatoonSDK19WakatoonSDKDelegateP",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MediaPlayer",
+        "printedName": "MediaPlayer",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "wakatoonSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ErrorPopup\/ErrorPopupViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 255,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ErrorPopup\/ErrorPopupViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 291,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "kind": "StringLiteral",
+      "offset": 896,
+      "length": 20,
+      "value": "\"DETECTED_LOOP_DATA\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "kind": "StringLiteral",
+      "offset": 951,
+      "length": 14,
+      "value": "\"EPISODE_DATA\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1000,
+      "length": 15,
+      "value": "\"DETECTED_DATA\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "kind": "StringLiteral",
+      "offset": 896,
+      "length": 20,
+      "value": "\"DETECTED_LOOP_DATA\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "kind": "StringLiteral",
+      "offset": 951,
+      "length": 14,
+      "value": "\"EPISODE_DATA\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Models\/VideoCacheModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1000,
+      "length": 15,
+      "value": "\"DETECTED_DATA\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/ExtractionOK\/ExtractionOKViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 275,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoPlayer\/VideoPlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 596,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoPlayer\/VideoPlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 629,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 452,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 490,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 526,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 620,
+      "length": 6,
+      "value": "\"rate\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/EpisodePlayer\/EpisodePlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 661,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/DownloadManager.swift",
+      "kind": "StringLiteral",
+      "offset": 377,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/DownloadManager.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 15,
+      "value": "\"wakatoonSDK.DownloadManager\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 228,
+      "length": 32,
+      "value": "\"https:\/\/api.wakatoon.com\/waas\/\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 324,
+      "length": 17,
+      "value": "\"episode\/artwork\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 376,
+      "length": 20,
+      "value": "\"ui\/episode\/overlay\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 431,
+      "length": 17,
+      "value": "\"artwork\/extract\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 483,
+      "length": 16,
+      "value": "\"photo\/validate\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 534,
+      "length": 13,
+      "value": "\"stream\/link\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 324,
+      "length": 17,
+      "value": "\"episode\/artwork\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 376,
+      "length": 20,
+      "value": "\"ui\/episode\/overlay\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 431,
+      "length": 17,
+      "value": "\"artwork\/extract\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 483,
+      "length": 16,
+      "value": "\"photo\/validate\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 534,
+      "length": 13,
+      "value": "\"stream\/link\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 685,
+      "length": 15,
+      "value": "\"DETECTED_LOOP\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 735,
+      "length": 9,
+      "value": "\"EPISODE\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 779,
+      "length": 7,
+      "value": "\"INTRO\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 821,
+      "length": 10,
+      "value": "\"DETECTED\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 685,
+      "length": 15,
+      "value": "\"DETECTED_LOOP\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 735,
+      "length": 9,
+      "value": "\"EPISODE\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 779,
+      "length": 7,
+      "value": "\"INTRO\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/API\/APIManager.swift",
+      "kind": "StringLiteral",
+      "offset": 821,
+      "length": 10,
+      "value": "\"DETECTED\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 235,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 478,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UINavigationController+Utils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 940,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/String+Utils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1206,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/String+Utils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1381,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "StringLiteral",
+      "offset": 218,
+      "length": 22,
+      "value": "\"com.etpl.wakatoonSDK\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "StringLiteral",
+      "offset": 311,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "StringLiteral",
+      "offset": 340,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "StringLiteral",
+      "offset": 372,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 410,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 541,
+      "length": 2,
+      "value": "98"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "FloatLiteral",
+      "offset": 544,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 558,
+      "length": 3,
+      "value": "201"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "FloatLiteral",
+      "offset": 562,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 575,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "FloatLiteral",
+      "offset": 579,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "FloatLiteral",
+      "offset": 593,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "StringLiteral",
+      "offset": 636,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 671,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 704,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 734,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "StringLiteral",
+      "offset": 895,
+      "length": 46,
+      "value": "\"https:\/\/www.wakatoon.com\/fr\/mentions-legales\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonSDKData.swift",
+      "kind": "StringLiteral",
+      "offset": 969,
+      "length": 60,
+      "value": "\"https:\/\/www.wakatoon.com\/fr\/politique-de-confidentialité\/\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonManager.swift",
+      "kind": "StringLiteral",
+      "offset": 975,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/init\/WakatoonManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2252,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Camera\/CameraViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 489,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Helpers\/EpisodeDownloadHelper\/AssetStore.swift",
+      "kind": "Dictionary",
+      "offset": 357,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Loading\/LoadingViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 602,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/Loading\/LoadingViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 768,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 257,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 403,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 613,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 783,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Extensions\/UIViewController+Utils.swift",
+      "kind": "BooleanLiteral",
+      "offset": 809,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoOverview\/VideoOverviewViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 328,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bs-mac-4\/Documents\/Testing 8 Feb\/WakatoonTest1\/wakatoonSDK\/wakatoonSDK\/Views\/View Controllers\/VideoOverview\/VideoOverviewViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 364,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

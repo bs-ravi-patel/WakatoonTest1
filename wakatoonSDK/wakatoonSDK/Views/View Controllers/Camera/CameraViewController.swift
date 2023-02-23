@@ -11,7 +11,7 @@ import AVFoundation
 class CameraViewController: BaseViewController {
     
     //MARK: - VARIABLES
-    var overlay: ArtworkModal?
+    var overlay: ArtworkModel?
     var captureSession : AVCaptureSession!
     var backCamera : AVCaptureDevice!
     var backInput : AVCaptureInput!

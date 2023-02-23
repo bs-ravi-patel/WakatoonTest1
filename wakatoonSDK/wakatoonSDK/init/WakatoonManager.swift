@@ -91,7 +91,7 @@ public class WakatoonSDK: NSObject {
     
     /// GET the artwork of the episode
     public func getEpisodeArtwork(storyID: String, seasonID: Int, episodeID: Int, completion: @escaping((_ response: Data?, _ error: Error?)->())) {
-        APIManager.shared.getArtWork(storyID: storyID, seasonID: seasonID, episodeId: episodeID, completion: completion)
+        APIManager.shared.getArtwork(storyID: storyID, seasonID: seasonID, episodeId: episodeID, completion: completion)
     }
     
     /// Goto Video Player
