@@ -14,6 +14,6 @@ Pod::Spec.new do |spec|
   #  spec.source                 = { :git => 'https://github.com/ravipatel-123/WakatoonTest1.git', :tag => spec.version }
   
   #  spec.vendored_framework     = 'WakatoonSDK.xcframework'
-  spec.ios.vendored_frameworks = 'WakatoonSDK.xcframework'
+  spec.ios.vendored_frameworks = 'WakatoonSDK.framework'
   
 end
